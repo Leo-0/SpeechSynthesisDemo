@@ -1,0 +1,1216 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"time",
+				"timer〔variable〕"
+			],
+			[
+				"rea",
+				"ready\tdocument.ready - $(function(){})"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"word",
+				"word-spacing"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"has",
+				"hasClass〔function〕"
+			],
+			[
+				"addC",
+				"addClass"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"par",
+				"parent〔function〕"
+			],
+			[
+				"pa",
+				"parent〔function〕"
+			],
+			[
+				"togg",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"back",
+				"back_pos〔variable〕"
+			],
+			[
+				"l-spa",
+				"letter-spacing: 〔property〕"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"ani",
+				"anim\tanimation"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"add",
+				"addNavigation"
+			],
+			[
+				"remo",
+				"remove〔function〕"
+			],
+			[
+				"parse",
+				"parseFloat〔function〕"
+			],
+			[
+				"ind",
+				"index"
+			],
+			[
+				"click",
+				"clickflag〔variable〕"
+			],
+			[
+				"wra",
+				"wrapw"
+			],
+			[
+				"mid",
+				"middle_posy〔variable〕"
+			],
+			[
+				"ho",
+				"horizontalPos"
+			],
+			[
+				"load",
+				"loaded"
+			],
+			[
+				"ima",
+				"image_files"
+			],
+			[
+				"sam",
+				"sample"
+			],
+			[
+				"for",
+				"force_encoding"
+			],
+			[
+				"albu",
+				"album"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"intr",
+				"introWrapper〔variable〕"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"onres",
+				"onresize〔function〕"
+			],
+			[
+				"acta",
+				"actualTop〔variable〕"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"lin",
+				"link\tTag"
+			],
+			[
+				"i",
+				"inherit"
+			],
+			[
+				"scrollT",
+				"scrollTop"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"wor",
+				"word-wrap"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"bott",
+				"border-bottom"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"mw",
+				"max-width"
+			],
+			[
+				"cne",
+				"centered-wrapper"
+			],
+			[
+				"pre",
+				"pre-wrap"
+			],
+			[
+				"center",
+				"centered"
+			],
+			[
+				"centered",
+				"centered-wrapper"
+			],
+			[
+				"ft",
+				"filter"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"se",
+				"section-title"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"di",
+				"d-if\tdisplay: inline-flex;"
+			],
+			[
+				"tim",
+				"timer〔variable〕"
+			],
+			[
+				"clea",
+				"clearTimeout〔function〕"
+			],
+			[
+				"offset",
+				"offsetLeft"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"contr",
+				"controlBgCal〔function〕"
+			],
+			[
+				"get",
+				"getHours〔function〕"
+			],
+			[
+				"removeClass",
+				"removeClass"
+			],
+			[
+				"addc",
+				"addClass"
+			],
+			[
+				"removeclass",
+				"removeClass〔function〕"
+			],
+			[
+				"toggleClass",
+				"toggleClass"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"q",
+				"querySelector"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"cal",
+				"callback〔argument〕"
+			],
+			[
+				"ovy",
+				"ovy-s\toverflow-y: scroll;"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"backg",
+				"background-attachment"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"left",
+				"leftToRight"
+			],
+			[
+				"cle",
+				"clearInterval〔function〕"
+			],
+			[
+				"chi",
+				"children"
+			],
+			[
+				"set",
+				"setInterval〔function〕"
+			],
+			[
+				"_ren",
+				"_renderPage"
+			],
+			[
+				"co",
+				"counter〔variable〕"
+			],
+			[
+				"toda",
+				"todayDot"
+			],
+			[
+				"user-se",
+				"-webkit-user-select: 〔property〕"
+			],
+			[
+				"_",
+				"_getDay"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"flex-",
+				"flex-wrap"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"ca",
+				"calendar.js"
+			],
+			[
+				"clie",
+				"clientY"
+			],
+			[
+				"clien",
+				"clientX"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"mouse",
+				"mouseover\t.mouseover()"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"dec",
+				"text-decoration"
+			],
+			[
+				"in",
+				"index2Style.css"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"pro",
+				"proto\tPrototype"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"border-right",
+				"border-bottom-right-radius"
+			],
+			[
+				"cl",
+				"clip"
+			],
+			[
+				"border-bo",
+				"border-bottom-color"
+			],
+			[
+				"ti",
+				"ti--\ttext-indent: -9999px;"
+			],
+			[
+				"bas",
+				"baseline-shift"
+			],
+			[
+				"base",
+				"alignment-baseline"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"mod",
+				"modal_overlay"
+			],
+			[
+				"mar",
+				"margin: 〔property〕"
+			],
+			[
+				"prelo",
+				"preloadFault"
+			],
+			[
+				"preloadFa",
+				"preloadFaults〔function〕"
+			],
+			[
+				"preload",
+				"preloadImg1"
+			],
+			[
+				"prel",
+				"preloadImgs〔variable〕"
+			],
+			[
+				"preloi",
+				"preloadImgs"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"bgi",
+				"background-image"
+			],
+			[
+				"filte",
+				"filter"
+			],
+			[
+				"id",
+				"id\tAttr"
+			],
+			[
+				"de",
+				"text-decoration"
+			],
+			[
+				"point",
+				"point.y"
+			],
+			[
+				"po",
+				"point.x"
+			],
+			[
+				"eachW",
+				"eachWidth"
+			],
+			[
+				"ran",
+				"randomPoint〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gitsho",
+				"Git: Show Tags"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"paci",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pl",
+				"Package Control: List Packages"
+			],
+			[
+				"pki",
+				"Package Control: Install Package"
+			],
+			[
+				"togglem",
+				"View: Toggle Menu"
+			],
+			[
+				"togglemenu",
+				"View: Toggle Menu"
+			],
+			[
+				"toggle men",
+				"View: Toggle Menu"
+			],
+			[
+				"syntax h",
+				"Set Syntax: HTML"
+			],
+			[
+				"pal",
+				"Package Control: List Packages"
+			],
+			[
+				"pcrp",
+				"Package Control: Remove Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pcl",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssys",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"syntaxpy",
+				"Set Syntax: Python"
+			],
+			[
+				"syntax",
+				"Set Syntax: Java"
+			],
+			[
+				"syntaxht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax:py",
+				"Set Syntax: Python"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax:htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax python",
+				"Set Syntax: Python"
+			],
+			[
+				"syntax ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"syntax:html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax:js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"vi",
+				"View: Toggle Menu"
+			],
+			[
+				"brose",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Bookmarks: Select All"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/GitHub/SpeechSynthesisDemo",
+		"/D/GitHub/SpeechSynthesisDemo/demo"
+	],
+	"file_history":
+	[
+		"/D/GitHub/SpeechSynthesisDemo/demo/index.html",
+		"/D/GitHub/SpeechSynthesisDemo/demo/speech.js",
+		"/D/GitHub/Leo-0.github.io/assets/js/sound.js",
+		"/D/GitHub/Leo-0.github.io/assets/js/calendar.js",
+		"/D/GitHub/Leo-0.github.io/assets/js/time.js",
+		"/D/GitHub/Leo-0.github.io/assets/js/photowall.js",
+		"/D/GitHub/SpeechSynthesisDemo/speech.js",
+		"/D/GitHub/Leo-0.github.io/archive.html",
+		"/D/GitHub/Leo-0.github.io/_config.yml",
+		"/D/GitHub/Leo-0.github.io/index.html",
+		"/D/GitHub/Leo-0.github.io/_layouts/default.html",
+		"/D/GitHub/Leo-0.github.io/assets/css/main.css",
+		"/D/GitHub/Leo-0.github.io/_posts/2017-08-13-Minecraft-Logic-gate.md",
+		"/D/GitHub/Leo-0.github.io/_includes/baidu-analysis.html",
+		"/D/GitHub/Leo-0.github.io/_layouts/post.html",
+		"/D/GitHub/Leo-0.github.io/_includes/head.html",
+		"/D/GitHub/Leo-0.github.io/_layouts/album.html",
+		"/D/my programs/my2048/2048/js/main2048.js",
+		"/D/my programs/my2048/2048/js/showanimation2048.js",
+		"/D/my programs/my2048/2048/js/support2048.js",
+		"/D/GitHub/Leo-0.github.io/_includes/script.html",
+		"/D/GitHub/Leo-0.github.io/404.html",
+		"/D/GitHub/Leo-0.github.io/message.html",
+		"/D/GitHub/Leo-0.github.io/collection.html",
+		"/D/GitHub/Leo-0.github.io/photo.html",
+		"/D/GitHub/Leo-0.github.io/assets/js/wff.js",
+		"/D/GitHub/Leo-0.github.io/assets/css/pagenotfound.css",
+		"/D/GitHub/Leo-0.github.io/assets/css/temporary.css",
+		"/D/GitHub/Leo-0.github.io/assets/css/time.css",
+		"/D/GitHub/Leo-0.github.io/assets/css/common.css",
+		"/D/GitHub/Leo-0.github.io/tag.html",
+		"/D/GitHub/Leo-0.github.io/_includes/niph.html",
+		"/D/GitHub/Leo-0.github.io - 副本/photowall.js",
+		"/D/GitHub/photowall/photowall/demo/js/photowall.js",
+		"/D/GitHub/Barrager/js/barrager.js",
+		"/D/GitHub/photowall/photowall/demo/index.html",
+		"/D/GitHub/photowall/photowall/demo/css/photowall.css",
+		"/D/GitHub/Leo-0.github.io/_includes/readmore.html",
+		"/D/Ruby23-x64/lib/ruby/2.3.0/webrick/httpservlet/filehandler.rb",
+		"/D/GitHub/Leo-0.github.io/test.html",
+		"/D/GitHub/Leo-0.github.io/_layouts/testtest.html",
+		"/D/GitHub/leopardpan.github.io/_includes/JB/posts_collate",
+		"/D/Ruby23-x64/lib/ruby/gems/2.3.0/gems/jekyll-3.5.1/lib/jekyll/filters.rb",
+		"/D/Ruby23-x64/lib/ruby/gems/2.3.0/gems/liquid-4.0.0/lib/liquid/standardfilters.rb",
+		"/D/Ruby23-x64/lib/ruby/gems/2.3.0/gems/jekyll-3.5.1/lib/jekyll.rb",
+		"/D/GitHub/leopardpan.github.io/index.html",
+		"/D/GitHub/leopardpan.github.io/archive.html",
+		"/D/GitHub/leopardpan.github.io/_layouts/page.html",
+		"/D/GitHub/leopardpan.github.io/_config.yml",
+		"/D/GitHub/leopardpan.github.io/_layouts/post.html",
+		"/D/GitHub/Leo-0.github.io/about.md",
+		"/D/picool/picool/index.html",
+		"/D/GitHub/Leo-0.github.io/blog/index.html",
+		"/D/GitHub/leopardpan.github.io/_includes/read-more.html",
+		"/D/GitHub/Leo-0.github.io/_includes/footer.html",
+		"/D/my programs/programs/pydb.py",
+		"/D/my programs/programs/extractjsondata.py",
+		"/D/my programs/programs/extractxmldata.py",
+		"/D/GitHub/Leo-0.github.io/assets/css/pygments.css",
+		"/D/GitHub/leopardpan.github.io/css/main.css",
+		"/H/downloads/mr-brown-master/_layouts/post.html",
+		"/H/downloads/mr-brown-master/_config.yml",
+		"/H/downloads/mr-brown-master/index.html",
+		"/D/GitHub/Leo-0.github.io/_posts/2017-07-29-welcome-to-jekyll.markdown",
+		"/H/downloads/mr-brown-master/_includes/disqus.html",
+		"/H/downloads/mr-brown-master/_includes/txtpen.html",
+		"/D/GitHub/Leo-0.github.io - 副本/assets/css/main.css",
+		"/H/downloads/mr-brown-master/assets/css/main.css",
+		"/D/GitHub/Leo-0.github.io/Gemfile",
+		"/D/GitHub/leopardpan.github.io/feed.xml",
+		"/D/GitHub/leopardpan.github.io/_includes/footer.html",
+		"/D/GitHub/Leo-0.github.io/_posts/2017-07-29-Leo-0.md",
+		"/D/GitHub/Leo-0.github.io/assets/fonts/digital.svg",
+		"/D/GitHub/Leo-0.github.io/assets/fonts/digital.woff",
+		"/D/GitHub/Leo-0.github.io/assets/fonts/iconfont.svg",
+		"/D/GitHub/Leo-0.github.io/assets/fonts/digital.ttf",
+		"/D/GitHub/Leo-0.github.io/assets/css/iconfont.css",
+		"/H/PS/font_zvra5xiaho4unmi/iconfont.css",
+		"/D/GitHub/leopardpan.github.io/css/tomorrow.css",
+		"/H/PS/font_o631h2vm31yycik9/demo.css",
+		"/D/GitHub/Leo-0.github.io/_posts/2016-11-03-TensorFlowOniOSUse1.md",
+		"/D/GitHub/leopardpan.github.io/Gemfile",
+		"/D/GitHub/leopardpan.github.io/_posts/2016-07-15-Codeless.md",
+		"/D/GitHub/leopardpan.github.io/_posts/2015-08-25-HEXO搭建个人博客.md",
+		"/D/GitHub/Leo-0.github.io/assets/css/calendar.css",
+		"/D/ChromeDownloads/bootstrap/bootstrap-3.3.5/dist/css/bootstrap.css",
+		"/H/downloads/airspace-jekyll-master/index.html",
+		"/D/my programs/jsLearning/index.html",
+		"/D/my programs/shape/unique.html",
+		"/D/my programs/shape/index.html",
+		"/D/my programs/index.html",
+		"/D/my programs/shape/findthemax.html",
+		"/D/my programs/shape/canvasnest.html",
+		"/D/my programs/shape/carousel.html",
+		"/D/my programs/shape/demo1.html",
+		"/D/my programs/shape/index2.html",
+		"/D/GitHub/Leo-0.github.io/.git/index.lock",
+		"/H/downloads/3dtag/tags.js",
+		"/H/downloads/3dtag/index.html.html",
+		"/D/GitHub/leopardpan.github.io/_layouts/default.html",
+		"/D/my programs/jsLearning/cal.html",
+		"/D/my programs/jsLearning/calendar.js",
+		"/D/my programs/jsLearning/idCard.html",
+		"/D/my programs/angularJS学习/date.html",
+		"/D/my programs/photowall/photowall/index.html",
+		"/D/my programs/photowall/photowall/js/photowall.js",
+		"/D/my programs/my2048/2048.sublime-project",
+		"/D/asm/masm/74.asm",
+		"/D/asm/masm/821.asm",
+		"/D/asm/masm/822.asm",
+		"/D/asm/masm/8833.asm",
+		"/D/asm/masm/inputnum.asm",
+		"/D/asm/masm/posneg.asm",
+		"/D/asm/masm/wenzi.asm",
+		"/D/my programs/jsLearning/introduction",
+		"/D/jee-mars/workspace/FindFault/WebContent/bootstrap/css/bootstrap.min.css",
+		"/D/jee-mars/workspace/FindFault/WebContent/css/index.css",
+		"/D/jee-mars/workspace/FindFault/WebContent/js/userinfo.js",
+		"/D/my programs/shape/demo1.js",
+		"/D/my programs/shape/style.css",
+		"/D/ChromeDownloads/canvas-nest.js-master/dist/canvas-nest.js",
+		"/D/ChromeDownloads/canvas-nest.js-master/src/canvas-nest.js",
+		"/D/my programs/shape/canvas-nest.min.js",
+		"/D/ChromeDownloads/html5&CSS3/css3-company-timeline/js/canvas-nest.min.js",
+		"/D/ChromeDownloads/canvas-nest.js-master/index.html",
+		"/D/ChromeDownloads/html5&CSS3/css3-company-timeline/index.html",
+		"/D/my programs/shape/demo2.html",
+		"/C/Windows/System32/Drivers/etc/hosts"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"<current file>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"windo",
+			"lang",
+			"voiceSelect",
+			"selectedOptions",
+			"clear",
+			"setin",
+			"voices.length",
+			"gotoEnd",
+			"label id=\"",
+			"/><label class=\"fr\">",
+			"fl",
+			"document",
+			"this",
+			"range",
+			".jpg",
+			"ex",
+			"event",
+			"touch",
+			"getMousePos",
+			"window",
+			"'load'",
+			"load",
+			".tag",
+			"assig",
+			"article ",
+			"article",
+			"background-image",
+			"6s",
+			".song-opern",
+			"ong-opern",
+			"868080",
+			"#DAD5D5",
+			"4px",
+			"3px",
+			"2px",
+			"404",
+			"site",
+			"coll",
+			"overlay",
+			"1501828248159",
+			"这是个好网站",
+			"=\"#\">",
+			"这是个好网站",
+			"brand",
+			"img",
+			"loading",
+			"focus",
+			"width",
+			"wood",
+			"loaded",
+			"imgSize",
+			"imsSize",
+			"toggleClass",
+			"toggleclass",
+			",400",
+			"thumbnai",
+			"auto",
+			"top",
+			"value2",
+			"param2",
+			"loaded",
+			"main",
+			"header-btn",
+			"close",
+			".main",
+			"right",
+			"thumbnail",
+			"pre",
+			"start",
+			"appendk",
+			"init()",
+			"gotoEnd",
+			"loading",
+			"main",
+			"loadImg(",
+			"imgsrc",
+			"var ",
+			"loading",
+			"$len",
+			"recordc",
+			"cur_pos",
+			"$len",
+			"getattr",
+			"cal",
+			"cals",
+			"dx",
+			"var dx",
+			"dx",
+			" dx",
+			",\n",
+			"initPositionArr",
+			"360deg",
+			"t.",
+			"360deg",
+			"pre",
+			"console.log",
+			"setflag()",
+			"clickflag",
+			"$len",
+			"t",
+			"T",
+			"t",
+			"function",
+			"$next",
+			"cons",
+			"loadImg",
+			"that.",
+			"callb",
+			"calImgMiddlepos",
+			"start",
+			"imgsrc",
+			"loaded",
+			"start",
+			"el",
+			"$kids",
+			"border",
+			"src",
+			"img",
+			"20",
+			"width",
+			"height",
+			"$this",
+			"this",
+			"$this",
+			" $this",
+			"width",
+			"calBackPos",
+			"setBackground"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"cxt"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 240.0
+	},
+	"pinned_build_system": "",
+	"project": "speechsynthesisdemo.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"css",
+				"css\\style.css"
+			],
+			[
+				"da",
+				"js\\data.js"
+			],
+			[
+				"an",
+				"js\\anemone.js"
+			],
+			[
+				"fru",
+				"js\\fruit.js"
+			],
+			[
+				"fr",
+				"js\\fruit.js"
+			],
+			[
+				"com",
+				"js\\commonFunctions.js"
+			],
+			[
+				"ba",
+				"js\\fishBaby.js"
+			],
+			[
+				"fishm",
+				"js\\fishMom.js"
+			],
+			[
+				"fish",
+				"js\\fishBaby.js"
+			],
+			[
+				"di",
+				"js\\digit.js"
+			],
+			[
+				"co",
+				"js\\countdown.js"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"cou",
+				"js\\countdown.js"
+			],
+			[
+				"js",
+				"js\\handwriting.js"
+			],
+			[
+				"han",
+				"css\\handwriting.css"
+			],
+			[
+				"hcss",
+				"css\\handwriting.css"
+			],
+			[
+				"hjs",
+				"js\\handwriting.js"
+			],
+			[
+				"",
+				"index.html"
+			],
+			[
+				"clock",
+				"D:\\my programs\\clock\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 163.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

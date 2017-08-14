@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Speech Synthesis Demo</title>
+	<style>
+		body {
+			background-color: #3B3939;
+		}
+		form {
+			width: 520px;
+			margin: 100px auto;
+			border: 1px solid black;
+			background-color: white;
+		}
+		label {
+			display: inline-block;
+			width: 80px;
+			margin: 10px;
+			text-align: center;
+		}
+		label.fl {
+			text-align: left;
+		}
+		label.fr {
+			text-align: right;
+		}
+		input {
+			width: 200px;
+		}
+		select {
+			margin: 10px;
+		}
+		button {
+			width: 100px;
+			text-align: center;
+			margin: 10px;
+		}
+	</style>
+</head>
+<body>
+	<form>
+		<label>文本</label><input type="text" name="txt" class="txt" value="你好，朋友" /><label></label><label class="fl">数值</label><br />
+		<label class="fr">volume 0</label><input type="range" name="volume" class="vol" min="0" max="1" step="0.01" value="1" oninput="printvol(this)" /><label class="fl">1</label><label class="fl" id="volnum">1</label><br />
+		<label class="fr">rate 0.1</label><input type="range" name="rate" class="rate" min="0.1" max="10" step="0.02" value="2" oninput="printrate(this)" /><label class="fl">10</label><label class="fl" id="ratenum">2</label><br />
+		<label class="fr">pitch 0</label><input type="range" name="pitch" class="pitch" min="0" max="2" step="0.02" value="1" oninput="printpitch(this)" /><label class="fl">2</label><label class="fl" id="pitchnum">1</label><br />
+		<select></select>
+		<button id="speak">speak</button>
+	</form>
+	<script type="text/javascript" src="speech.js"></script>
+	<script type="text/javascript">
+		function printvol(obj) {
+			var l = document.getElementById('volnum');
+			l.innerHTML = obj.value;
+		}
+		function printrate(obj) {
+			var l = document.getElementById('ratenum');
+			l.innerHTML = obj.value;
+		}
+		function printpitch(obj) {
+			var l = document.getElementById('pitchnum');
+			l.innerHTML = obj.value;
+		}
+	</script>
+</body>
+</html>
