@@ -23,8 +23,8 @@ function populateVoiceList() {
 	timer = setTimeout('populateVoiceList()', 20);
 }
 populateVoiceList();
-var btn = document.getElementById('speak');
-btn.onclick = function(evt) {
+var speakButton = document.getElementById('speak');
+speakButton.onclick = function (evt) {
 	var e = evt || event;
 	e.preventDefault();
 	synth.cancel();
@@ -43,4 +43,22 @@ btn.onclick = function(evt) {
 	utterThis.rate = rate.value;
 	utterThis.pitch = pitch.value;
 	synth.speak(utterThis);
-}
+};
+var pauseButton = document.getElementById('pause');
+pauseButton.onclick = function (evt) {
+	var e = evt || event;
+	e.preventDefault();
+	synth.pause();
+};
+var resumeButton = document.getElementById('resume');
+resumeButton.onclick = function (evt) {
+	var e = evt || event;
+	e.preventDefault();
+	synth.resume();
+};
+var cancelButton = document.getElementById('cancel');
+cancelButton.onclick = function (evt) {
+	var e = evt || event;
+	e.preventDefault();
+	synth.cancel();
+};
