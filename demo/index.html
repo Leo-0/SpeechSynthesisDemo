@@ -62,7 +62,7 @@
 
 <body>
 	<form>
-		<textarea name="txt" class="txt" rows="6" cols="80" placeholder="输入文本，点击speak按钮转化为语音">Hello，你好，我的朋友</textarea>
+		<textarea name="txt" class="txt" rows="6" cols="80" placeholder="输入文本，点击[讲话]按钮转化为语音">你好，我的朋友</textarea>
 		<div><label class="fr">Volume 0</label><input type="range" name="volume" class="vol" min="0" max="1" step="0.01"
 				value="1" oninput="printvalue(this)" /><label class="fl">1</label></div>
 		<div><label class="fr">Rate 0.1</label><input type="range" name="rate" class="rate" min="0.1" max="10"
@@ -71,14 +71,14 @@
 				value="1" oninput="printvalue(this)" /><label class="fl">1</label></div>
 		<select></select>
 		<div style="text-align: center;">
-			<button id="speak">speak</button>
-			<button id="pause">pause</button>
-			<button id="resume">resume</button>
-			<button id="cancel">cancel</button>
-			<button id="reset">reset</button>
+			<button id="speak">讲话</button>
+			<button id="pause">暂停</button>
+			<button id="resume">继续</button>
+			<button id="cancel">取消</button>
+			<button id="reset">重置</button>
 		</div>
 	</form>
-	<script type="text/javascript" src="speech.js"></script>
+	<script type="text/javascript" src="text2speech.js"></script>
 	<script type="text/javascript">
 		function printvalue(obj) {
 			var l = obj.nextSibling;
